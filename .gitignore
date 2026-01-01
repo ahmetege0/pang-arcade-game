@@ -1,0 +1,12 @@
+# Java compiled files
+*.class
+bin/
+
+# User data and histories
+users.txt
+histories/
+
+# IDE files
+.project
+.classpath
+.settings/
